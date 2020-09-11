@@ -42,6 +42,14 @@ body {
   content: "\e911";
 }
 
+.bg-smile {
+  background-color: #C271FF !important;
+}
+
+.color-smile {
+  color: #C271FF !important;
+}
+
 /* header
       ============================== */
 
@@ -70,8 +78,7 @@ body {
   font-size: 8vw;
 }
 
-.btn-primary {
-  background-color: #C271FF !important;
+.btn-primary {  
   font-weight: 600;
   font-size: 1vw;
   width: 12vw;
@@ -82,13 +89,17 @@ body {
   border-radius: 20px !important;
 }
 
-.color-1 {
-  color: #C271FF;
-}
-
 .p-learn {
   font-size: 26px;
 }
+
+/* Main
+      ============================== */
+
+.size-p {
+  font-size: 22px;
+}
+
 
 /* Media
       ============================== */
