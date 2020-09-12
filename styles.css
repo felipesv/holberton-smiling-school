@@ -51,6 +51,10 @@ body {
   background-color: #C271FF !important;
 }
 
+.bg-smile-dark {
+  background-color: #071629;
+} 
+
 .color-smile {
   color: #C271FF !important;
 }
@@ -111,6 +115,11 @@ body {
   height: 64px;
   top: 43px;
   left: 96px;
+}
+
+.img-smile {
+  width: 45px;
+  height: 36px;
 }
 
 
