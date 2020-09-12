@@ -42,6 +42,11 @@ body {
   content: "\e911";
 }
 
+.hbicon-star:before {
+  content: "\e914";
+  font-size: 1.5rem !important;
+}
+
 .bg-smile {
   background-color: #C271FF !important;
 }
@@ -98,6 +103,14 @@ body {
 
 .size-p {
   font-size: 22px;
+}
+
+.img-play {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 43px;
+  left: 96px;
 }
 
 
