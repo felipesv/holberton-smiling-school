@@ -65,6 +65,7 @@ body {
 
 .hbicon-check::before {
   content: "\e905";
+  font-size: 28px;
 }
 
 .bg-smile {
@@ -103,6 +104,14 @@ body {
   background-position: 50% 0;
   background-size: cover;
   min-height: 1093px;
+  height: 100%;
+}
+
+.header-courses {
+  background-image: url("images/pic_3.jpg");
+  background-position: 50% 0;
+  background-size: cover;
+  min-height: 326px;
   height: 100%;
 }
 
