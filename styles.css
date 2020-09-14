@@ -23,6 +23,10 @@ body {
   font-family: 'Source Sans Pro', 'Coiny';
 }
 
+.font-smileschool {
+  font-family: 'Coiny';
+}
+
 /* Icons */
 
 [class^="hbicon-"], [class*=" hbicon-"] {
@@ -80,6 +84,14 @@ body {
 
 .header {
   background-image: url("images/pic_1.jpg");
+  background-position: 50% 0;
+  background-size: cover;
+  min-height: 1093px;
+  height: 100%;
+}
+
+.header-pricing {
+  background-image: url("images/pic_2.jpg");
   background-position: 50% 0;
   background-size: cover;
   min-height: 1093px;
@@ -163,5 +175,9 @@ body {
     font-size: 3vw;
     width: 36vw;
     height: 7vw;
+  }
+
+  .display-5 {
+    font-size: 24px;
   }
 }
