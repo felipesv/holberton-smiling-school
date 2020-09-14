@@ -79,6 +79,10 @@ body {
   color: #C271FF !important;
 }
 
+.color-grey-smile {
+  color: rgba(7, 22, 41, 0.501584) !important;
+}
+
 .mix-blend {
   mix-blend-mode: soft-light;
 }
