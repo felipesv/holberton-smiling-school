@@ -63,6 +63,10 @@ body {
   content: "\e90a";
 }
 
+.hbicon-check::before {
+  content: "\e905";
+}
+
 .bg-smile {
   background-color: #C271FF !important;
 }
@@ -130,6 +134,22 @@ body {
   font-size: 26px;
 }
 
+.opacity-md {
+  opacity: 0.5;
+}
+
+td.text-success {
+  color: #82D24F !important;
+}
+
+.size-td {
+  width: 33.33%;
+}
+
+.table-header-group {
+  display: table-header-group;
+}
+
 /* Main
       ============================== */
 
@@ -166,7 +186,7 @@ body {
   }
 }
 
-@media only screen  and (max-width: 576px) {
+@media only screen  and (max-width: 575px) {
   .size-h1 {
     font-size: 12vw;
   }
@@ -179,5 +199,9 @@ body {
 
   .display-5 {
     font-size: 24px;
+  }
+
+  .table-header-group {
+    display: none;
   }
 }
