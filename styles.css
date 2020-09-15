@@ -97,6 +97,10 @@ body {
   mix-blend-mode: normal;
 }
 
+.pointer {
+  cursor: pointer;
+}
+
 /* header
       ============================== */
 
