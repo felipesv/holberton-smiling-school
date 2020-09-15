@@ -226,4 +226,9 @@ td.text-success {
   .table-header-group {
     display: none;
   }
+
+  .img-play {
+    top: 22%;
+    left: 47%;
+  }
 }
