@@ -68,6 +68,11 @@ body {
   font-size: 28px;
 }
 
+.hbicon-search::before {
+  content: "\e912";
+  color: #C271FF;
+}
+
 .bg-smile {
   background-color: #C271FF !important;
 }
@@ -86,6 +91,10 @@ body {
 
 .mix-blend {
   mix-blend-mode: soft-light;
+}
+
+.mix-blend-normal {
+  mix-blend-mode: normal;
 }
 
 /* header
