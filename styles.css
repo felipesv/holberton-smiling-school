@@ -70,7 +70,6 @@ body {
 
 .hbicon-search::before {
   content: "\e912";
-  color: #C271FF;
 }
 
 /* Backgrounds */
@@ -83,6 +82,10 @@ body {
   background-color: #071629;
 }
 
+.bg-smile-input {
+  background-color: #d89df9;
+}
+
 /* Colors */
 
 .color-smile {
@@ -91,6 +94,10 @@ body {
 
 .color-grey-smile {
   color: rgba(7, 22, 41, 0.501584) !important;
+}
+
+.place-holder::placeholder {
+  color: #FFF;
 }
 
 /* mix blend */
