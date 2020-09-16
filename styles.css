@@ -130,7 +130,6 @@ body {
   background-image: url("images/pic_3.jpg");
   background-position: 50% 0;
   background-size: cover;
-  min-height: 326px;
   height: 100%;
 }
 
