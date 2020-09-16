@@ -110,8 +110,16 @@ body {
   mix-blend-mode: normal;
 }
 
+/* pointer */
+
 .pointer {
   cursor: pointer;
+}
+
+/* trasnform */
+
+.transformed-drop {
+  transform: translate3d(14px, -80px, 0px) !important;
 }
 
 /* header
