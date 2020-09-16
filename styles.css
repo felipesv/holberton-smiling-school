@@ -134,10 +134,6 @@ body {
   height: 100%;
 }
 
-.nav-link {
-  cursor: pointer;
-}
-
 .btn:hover {
   color: #FFF;
   opacity: 0.9;
