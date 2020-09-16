@@ -73,13 +73,17 @@ body {
   color: #C271FF;
 }
 
+/* Backgrounds */
+
 .bg-smile {
   background-color: #C271FF !important;
 }
 
 .bg-smile-dark {
   background-color: #071629;
-} 
+}
+
+/* Colors */
 
 .color-smile {
   color: #C271FF !important;
@@ -88,6 +92,8 @@ body {
 .color-grey-smile {
   color: rgba(7, 22, 41, 0.501584) !important;
 }
+
+/* mix blend */
 
 .mix-blend {
   mix-blend-mode: soft-light;
@@ -183,14 +189,6 @@ td.text-success {
   font-size: 22px;
 }
 
-.img-play {
-  position: absolute;
-  width: 64px;
-  height: 64px;
-  top: 43px;
-  left: 96px;
-}
-
 .img-smile {
   width: 45px;
   height: 36px;
@@ -229,10 +227,5 @@ td.text-success {
 
   .table-header-group {
     display: none;
-  }
-
-  .img-play-2 {
-    top: 22%;
-    left: 47%;
   }
 }
